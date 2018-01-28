@@ -1,0 +1,13 @@
+---
+name: Bronze lamp
+description: This lamp looks old and a little blemished from its age. A bit of rust caresses the rough edges of its base of bronze and there is a small hole in its rear near the top of its base for refilling. Atop the base sets glass in the shape of a vase being held in place and attached with a knob or adjusting the wick which sits inside.
+senses:
+    smell: This lamp reeks of metal, cerosene, and a hint of old smoke.
+    taste: You tase metal and old soot.
+    full-sound:  You hear the swishing sound of fluid inside its base splashing around.
+    empty-sound:  You hear the sound of a hollow container of sorts.
+lightable:
+    illumination: 4
+    fuel: cerosene
+    capacity: 42
+...
